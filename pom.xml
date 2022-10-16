@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.108.42.95:9000/RaviDevops/repository/walmart-release/</url>
+	      <url>http://172.31.43.97:9000/RaviDevops/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.108.42.95:9000/RaviDevops/repository/walmart-snapshot/</url>
+	      <url>http://172.31.43.97:9000/RaviDevops/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
